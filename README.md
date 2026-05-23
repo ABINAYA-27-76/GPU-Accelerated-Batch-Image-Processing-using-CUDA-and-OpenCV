@@ -260,5 +260,8 @@ print(log_text)
 
 ### Output:
 <img width="727" height="590" alt="image" src="https://github.com/user-attachments/assets/d1e3ee39-e919-4e2b-903d-b955fc80a747" />
+
+
+
 ### Result:
 The project successfully demonstrates GPU accelerated batch image processing using CUDA and OpenCV. The implementation shows how parallel GPU computation can efficiently process large-scale image datasets.
